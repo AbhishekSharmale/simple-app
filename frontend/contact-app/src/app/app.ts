@@ -31,7 +31,7 @@ export class App {
     this.isSubmitting = true;
     this.message = '';
     
-    this.http.post('http://localhost:3000/api/contact', this.contact)
+    this.http.post('/api/contact', this.contact)
       .subscribe({
         next: (response: any) => {
           this.isSuccess = true;

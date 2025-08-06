@@ -4,5 +4,5 @@ compatibility_date = "2023-12-01"
 
 [[kv_namespaces]]
 binding = "CONTACTS_KV"
-id = "your-kv-namespace-id"
-preview_id = "your-preview-kv-namespace-id"
+id = "REPLACE_WITH_YOUR_KV_ID"
+preview_id = "REPLACE_WITH_YOUR_PREVIEW_KV_ID"
