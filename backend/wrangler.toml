@@ -1,0 +1,8 @@
+name = "contact-form-api"
+main = "_functions.js"
+compatibility_date = "2023-12-01"
+
+[[kv_namespaces]]
+binding = "CONTACTS_KV"
+id = "your-kv-namespace-id"
+preview_id = "your-preview-kv-namespace-id"
